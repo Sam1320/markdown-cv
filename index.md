@@ -7,7 +7,7 @@ Machine Learning Engineer
 
 <div id="webaddress">
 <a href="samrolopez@gmail.com">samrolopez@gmail.com</a>
-| <a href="https://samrolopez.io">samrolopez.io</a>
+| <a href="https://www.samrolopez.io">samrolopez.io</a>
 </div>
 
 ## Education

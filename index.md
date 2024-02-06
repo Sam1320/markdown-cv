@@ -1,91 +1,58 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Samuel Rodriguez's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Samuel Rodriguez
+Machine Learning Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="samrolopez@gmail.com">samrolopez@gmail.com</a>
+| <a href="https://samrolopez.io">samrolopez.io</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-2022`
+__BSc. Informatics and Computational Science__
+*University of Potsdam, Germany*
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2012-2018`
+__Bachelor of Medicine__
+*University of Carabobo, Venezuela*
 
-- Sizar
+## Work Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Aug 2023-Present`
+AI/Machine Learning Engineer at [Conductor](https://www.conductor.com/)
 
-- Fellow
+`Oct 2022 - May 2023`
+Machine Learning Engineer at [Motor-AI](https://motor-ai.com/)
 
+`Aug 2021 - Oct 2022`
+Robotics & Deep Learning Intern at [University of Potsdam](https://www.uni-potsdam.de/de/cs-ml/index)
 
+`Oct 2019 - Mar 2020`
+Working Student Software Engineer at [Ada Health](https://www.ada.com/)
 
-## Awards
+### Projects
 
-`2012`
-President, *Royal Society*, London, UK
+`GroupLang` | LangChain, Guidance, AWS Lambda, Modal, Vector DBs.
 
-Associate, *French Academy of Science*, Paris, France
+`Estimate My State` | Kotlin, Android Studio
 
+`Webcam Game Controller` | Pytorch, OpenCV, Python
 
+`Chess GUI and Engine` | Python, Tkinter
 
-## Publications
+### Skills
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Technologies & Frameworks: PyTorch. Guidance. LangChain. AWS. Modal. Docker. Eigen. ROS2. TensorRT. Tensorflow. Pygame. Pandas
 
-### Journals
+Programming Languages: Python, C/C++, Java, Kotlin.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Natural Languages: Spanish (native), English (fluent), German (fluent).
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 

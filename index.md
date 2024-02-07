@@ -34,15 +34,19 @@ Robotics & Deep Learning Intern at [University of Potsdam](https://www.uni-potsd
 `Oct 2019 - Mar 2020`
 Working Student Software Engineer at [Ada Health](https://www.ada.com/)
 
-### Projects
+## Projects
 
-`GroupLang` | LangChain, Guidance, AWS Lambda, Modal, Vector DBs.
+`GroupLang` 
+LangChain, Guidance, AWS Lambda, Modal, Vector DBs.
 
-`Estimate My State` | Kotlin, Android Studio
+`Estimate My State` 
+Kotlin, Android Studio
 
-`Webcam Game Controller` | Pytorch, OpenCV, Python
+`Webcam Game Controller` 
+Pytorch, OpenCV, Python
 
-`Chess GUI and Engine` | Python, Tkinter
+`Chess GUI and Engine`
+Python, Tkinter
 
 ### Skills
 

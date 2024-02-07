@@ -56,18 +56,17 @@ Machine Learning Engineer
 
 ## Projects
 
+`LangChain, Guidance, AWS Lambda, Modal, Vector DBs.`
+GroupLang
 
-`GroupLang` 
-LangChain, Guidance, AWS Lambda, Modal, Vector DBs.
+`Kotlin, Android Studio`
+Estimate My State
 
-`Estimate My State` 
-Kotlin, Android Studio
+`Pytorch, OpenCV, Python`
+Webcam Game Controller
 
-`Webcam Game Controller` 
-Pytorch, OpenCV, Python
-
-`Chess GUI and Engine`
-Python, Tkinter
+`Python, Tkinter`
+Chess GUI and Engine
 
 ### Skills
 

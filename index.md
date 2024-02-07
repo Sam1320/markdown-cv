@@ -31,7 +31,7 @@ Machine Learning Engineer
 - Developed a semi-automated labeling pipeline for instance segmentation and 2D object detection utilizing SOTA open-source models. Optimized the performance through iterative prompt engineering across different modalities.
 - Created label cleaning applications for both 2D bounding boxes and segmentation masks, streamlining the curation of automated annotations. Trained and performed real-time inference on a semantic segmentation model using PyTorch-ONNX-TensorRT.
 - Created a radar tracking pipeline. Including realtime object detection, tracking of multiple objects, tracking evaluation and visualization.
-- Designed a modular fail-safe system architecture, focusing on redundancy, robustness, decentralization, coordination, and latency. Implemented POC of the basic building blocks. % and handed it over for further development.
+- Designed a modular fail-safe system architecture, focusing on redundancy, robustness, decentralization, coordination, and latency. Implemented POC of the basic building blocks.
 
 `Aug 2021 - Oct 2022`
 **Robotics & Deep Learning Research Assistant** at [University of Potsdam](https://www.uni-potsdam.de/de/cs-ml/index)

@@ -2,7 +2,7 @@
 layout: cv
 title: Samuel Rodriguez's CV
 ---
-# Samuel Rodriguez
+# Sam Rodriguez
 Machine Learning Engineer
 
 <div id="webaddress">

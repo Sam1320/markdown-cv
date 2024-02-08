@@ -87,17 +87,18 @@ p code {
 ul {
 	position: relative;
 	left: 25%;
-	width: 75%;
-	margin-bottom: 1em;
-	/*margin-top: -0.5em;*/
+	width: 50%;
+	margin-bottom: 1.5em;
+	font-size: 90%;
+	margin-top: -0.5em;
 }
 
 /*uncomment to get dashes in the list*/
-/*li:before {
+li:before {
 	content: "-";
 	position: relative;
 	left: -0.25em;
-}*/
+}
 
 li {
 	/*second line indent*/

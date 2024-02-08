@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Samuel Rodriguez's CV
+title: Samuel Rodríguez's CV
 ---
-# Sam Rodriguez
+# Samuel Rodríguez
 Machine Learning Engineer
 
 <div id="webaddress">
@@ -16,9 +16,15 @@ Machine Learning Engineer
 **BSc. Informatics and Computational Science**
 *University of Potsdam, Germany*
 
+*Thesis: A Simulation Environment for Visualizing Foundational Artificial Intelligence Methods of Localization, Mapping, Planning and Control with Application in Robotic Systems.*
+<!-- GPA: 3.7 -->
+
 `2012-2018`
 **Bachelor of Medicine**
 *University of Carabobo, Venezuela*
+
+*Thesis: In-vitro effect of croton malambo and croton micans on human cancer cell lines and its interaction with chemotherapeutic drugs.*
+<!-- GPA: 3.6 -->
 
 ## Work Experience
 
@@ -57,16 +63,29 @@ Machine Learning Engineer
 ## Projects
 
 `LangChain, Guidance, AWS Lambda, Modal, Vector DBs.`
-GroupLang
+*GroupLang*
+
+Telegram bot with long term memory and capable of planning and executing tasks, answering questions over documents, mapping messages to actions, unstructured data extraction, semantic user matching, relevant memory retrieval. It can also seek and wait for user feedback and clarification if required.
 
 `Kotlin, Android Studio`
-Estimate My State
+*Estimate My State*
+
+Android app that leverages internal sensors to estimate position \& velocity. Useful to evaluate multi-object tracking systems by having approximate ground truth states for arbitrary objects.
 
 `Pytorch, OpenCV, Python`
-Webcam Game Controller
+*Webcam Game Controller*
+
+A webcam-based game controller that uses a very lightweight neural network to detect hand gestures and control a game. 
 
 `Python, Tkinter`
-Chess GUI and Engine
+*Chess GUI and Engine*
+
+A chess game with a GUI and different engines to play against, all implemented from scratch.
+
+`Tensorflow, Computer Vision`
+*Diabetic Retinopathy Detection*
+
+Neural network able identify if there are signs of Diabetic Retinopathy present in a retina image (taken with fundus photography) and classify each image into five different categories depending on the severity of the condition.
 
 ### Skills
 

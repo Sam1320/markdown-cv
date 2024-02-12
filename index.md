@@ -6,8 +6,10 @@ title: Samuel Rodríguez's CV
 Machine Learning Engineer
 
 <div id="webaddress">
-<a href="samrolopez@gmail.com">samrolopez@gmail.com</a>
-| <a href="https://www.samrodriguez.io/">samrodriguez.io</a>
+<a href="samrolopez@gmail.com">samrolopez@gmail.com</a> | 
+<a href="https://www.samrodriguez.io/"> samrodriguez.io</a> |
+<a href="https://twitter.com/SamyRodrguez">X: @samyrodrguez</a> | 
+<a href="https://www.linkedin.com/in/samrodriguezlopez/">LinkedIn: samrodriguezlopez</a>
 </div>
 
 ## Education
